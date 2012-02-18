@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<card>
+  <ability tab="true">
+    <strenght>
+      <value type="number" />
+      <modifier type="number"/>
+    </strenght>
+    <dexterity>
+      <value type="number" />
+      <modifier type="number" />
+    </dexterity>
+    <construction>
+      <value type="number" />
+      <modifier type="number" />
+    </construction>
+    <intelligence>
+      <value type="number" />
+      <modifier type="number" />
+    </intelligence>
+    <wisdom>
+      <value type="number" />
+      <modifier type="number" />
+    </wisdom>
+    <charisma>
+      <value type="number" />
+      <modifier type="number" />
+    </charisma>
+  </ability>
+  <description title="Opis mojej wspaniałej postaci">
+    <name type="string" />
+    <player type="string" />
+    <race type="string" />
+    <personality type="string" />
+    <god type="string" />
+    <size type="string" />
+    <age type="string" />
+    <sex type="string" />
+    <height type="string" />
+    <weight type="string" />
+    <eye type="string" />
+    <hair type="string" />
+    <skin type="string" />
+    <description type="text" />
+  </description>
+</card>
